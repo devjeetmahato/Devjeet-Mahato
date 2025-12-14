@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Student Attendance Checker",
+  "description": "A simple tool to compare a total student list with a list of present students to quickly generate a list of absentees. You can paste lists, upload files, and download the absentee list.",
+  "requestFramePermissions": []
+}
